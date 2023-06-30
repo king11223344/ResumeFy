@@ -1,3 +1,4 @@
+// images of all the theme to see
 const ThemeTemplateData = [
     {
         id: 'Theme1',
